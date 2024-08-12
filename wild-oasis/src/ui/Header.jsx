@@ -1,6 +1,6 @@
 function Header() {
     return (
-        <div>
+        <div className="bg-red-200 p-3 pr-12 border-b border-gray-100">
             this is the hesader part
         </div>
     )
